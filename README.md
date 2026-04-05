@@ -2,7 +2,9 @@
 
 A small React app that draws a random integer in a fixed range. It is built to practice **state** (`useState`), **events** (button clicks), and **conditional rendering** (placeholder vs. result).
 
-**Remote:** [github.com/Mohamed-asmaan/react-random-number-generato](https://github.com/Mohamed-asmaan/react-random-number-generato)
+**Live demo:** [react-random-number-generato.vercel.app](https://react-random-number-generato.vercel.app/)
+
+**Repository:** [github.com/Mohamed-asmaan/react-random-number-generato](https://github.com/Mohamed-asmaan/react-random-number-generato)
 
 ---
 
